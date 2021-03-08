@@ -9,7 +9,7 @@ _Lee esto en otros idiomas:_
 
 En ciencias de la computaciòn una **lista enlazada** es una  coleccion linear 
 de elemntos de datos, en los cuales el orden linear no es dado por
-su posciòn fisica en memoria. En cambio, cada 
+su posiciòn fisica en memoria. En cambio, cada 
 elemento señala al siguiente. Es una estructura de datos 
 que consiste en un grupo de nodos los cuales juntos representan
 una secuencia. Bajo la forma mas simple, cada nodo es 
