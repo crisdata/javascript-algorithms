@@ -27,7 +27,7 @@ tienen una mejor locazion comparados con las listas lazadas.
 
 ![Linked List](https://upload.wikimedia.org/wikipedia/commons/6/6d/Singly-linked-list.svg)
 
-## Pseudocodigo para operacones basicas
+## Pseudocodigo para operaciones básicas
 
 ### Insertar
 
